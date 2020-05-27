@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+table td {
+    border: 1px solid black;
+    margin: 0;
+    height: 32px;
+    width: 32px;
+}
+
+table td.pixel {
+    width: 4px;
+    height: 4px;
+    border: 0;
+}
+
+#controls button {
+    width: 50px;
+    margin: 10px;
+    border-radius: 15px;
+}
