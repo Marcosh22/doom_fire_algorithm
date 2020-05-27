@@ -10,7 +10,7 @@ A representation of the Doom Fire Algorithm made with pure javascript
 
 ## Screenshots
 
-<img src="https://github.com/Marcosh22/doom_fire_algorithm/blob/master/screenshot.gif?raw=true" height="500em" />
+<img src="https://github.com/Marcosh22/doom_fire_algorithm/blob/master/screenshot.gif?raw=true" height="300em" />
 
 ## Authors
 
